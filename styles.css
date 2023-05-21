@@ -2523,9 +2523,8 @@ html {
   .works-grid {
     grid-column-gap: 30px;
     grid-row-gap: 30px;
-    grid-template: ". . ."
-                   ". . ."
-                   / 1.5fr 1fr 1.5fr;
+    grid-template-columns: 1.5fr 1fr 1.5fr;
+    grid-template-rows: auto auto auto;
     margin-bottom: 80px;
   }
   
@@ -2976,6 +2975,7 @@ html {
     .work-experience-grid {
       grid-template: ". ."
                      ". ."
+                     ". ."
                      / 1fr 1fr;
     }
   
@@ -3326,21 +3326,29 @@ html {
       line-height: 46px;
     }
   }
-  
-  #w-node-dff26f68-5731-3efa-d3dd-8f65c72d8fa5-5f3c4346 {
+
+  #proj1 {
     grid-area: 1 / 1 / 2 / 3;
   }
   
-  #w-node-dff26f68-5731-3efa-d3dd-8f65c72d8fad-5f3c4346 {
+  #proj2 {
     grid-area: 1 / 3 / 2 / 4;
   }
   
-  #w-node-dff26f68-5731-3efa-d3dd-8f65c72d8fb4-5f3c4346 {
+  #proj3 {
     grid-area: 2 / 1 / 3 / 2;
   }
   
-  #w-node-dff26f68-5731-3efa-d3dd-8f65c72d8fbb-5f3c4346 {
-    grid-area: 2 / 2 / 3 / 4;
+  #proj4 {
+    grid-area: 2 / 2 / 3 / 3;
+  }
+  
+  #proj5 {
+    grid-area: 2 / 3 / 3 / 4;
+  }
+  
+  #proj6 {
+    grid-area: 3 / 1 / 4 / 4;
   }
   
   #w-node-_9b2922ad-09b1-aebb-0430-7dee623c62c1-5f3c4349 {
