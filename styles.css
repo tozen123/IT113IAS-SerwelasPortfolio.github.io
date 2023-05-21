@@ -2232,6 +2232,7 @@ html {
     font-size: 36px;
     font-weight: 400;
     line-height: 50px;
+  
   }
   
   .styleguide-block {
@@ -2334,6 +2335,7 @@ html {
   }
   
   .label.cc-about-light, .paragraph-light {
+
     opacity: .6;
   }
   
@@ -2490,7 +2492,7 @@ html {
   }
   
   .name-text {
-    font-size: 20px;
+    font-size: 42px;
     font-weight: 400;
     line-height: 34px;
   }
@@ -2557,25 +2559,34 @@ html {
   }
   
   .work-image.cc-work-1 {
-    background-image: url("https://uploads-ssl.webflow.com/646a1f034a49e84e5f3c42f9/646a1f034a49e84e5f3c4357_portfolio%201%20-%20wide.svg");
+    background-image: url("./images/1.avif");
     background-size: cover;
   }
   
   .work-image.cc-work-2 {
-    background-image: url("https://uploads-ssl.webflow.com/646a1f034a49e84e5f3c42f9/646a1f034a49e84e5f3c4356_portfolio%202%20-%20wide.svg");
+    background-image: url("./images/2.avif");
     background-size: cover;
   }
-  
-  .work-image.cc-work-4 {
-    background-image: url("https://uploads-ssl.webflow.com/646a1f034a49e84e5f3c42f9/646a1f034a49e84e5f3c4358_portfolio%203%20-%20wide.svg");
-    background-size: cover;
-  }
-  
+
   .work-image.cc-work-3 {
-    background-image: url("https://uploads-ssl.webflow.com/646a1f034a49e84e5f3c42f9/646a1f034a49e84e5f3c4359_portfolio%204%20-%20wide.svg");
+    background-image: url("./images/3.avif");
+    background-size: cover;
+  }
+
+  .work-image.cc-work-4 {
+    background-image: url("./images/4freevector.jpg");
     background-size: cover;
   }
   
+ 
+  .work-image.cc-work-5 {
+    background-image: url("./images/5.png");
+    background-size: cover;
+  }
+  .work-image.cc-work-6 {
+    background-image: url("./images/6.png");
+    background-size: cover;
+  }
   .project-name-link {
     margin-bottom: 5px;
     font-size: 20px;
