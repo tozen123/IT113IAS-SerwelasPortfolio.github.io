@@ -2096,6 +2096,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .w-layout-grid {
+  
   grid-row-gap: 16px;
   grid-column-gap: 16px;
   grid-template-rows: auto auto;
@@ -3418,6 +3419,7 @@ figcaption {
 }
 
 #w-node-_94715a76-c502-742f-939d-a0e95cf00cdc-5f3c434b, #w-node-_6f73fd3d-f1c0-406b-1d30-964b258f7286-5f3c434b, #w-node-_1da45b71-d5a5-2792-cb3a-f2730f6d2b39-5f3c434b, #w-node-_55c69f37-a2ae-f13c-1c3b-a44181625db0-5f3c434b, #w-node-_7a1e4453-c18b-76cc-b055-bca7db91e09b-5f3c434b, #w-node-_1c84e66d-0152-1a83-065c-fd3036d05995-5f3c434b, #w-node-_099e8437-b113-dbe8-372f-fbcca27a9373-5f3c434b, #w-node-_670756b3-e29d-b6ff-94d1-48192e393c56-5f3c434b, #w-node-b0879fed-57d6-35c5-462f-e7b43cef064d-5f3c434b, #w-node-_073519c4-1279-8748-8d37-5212225cbde5-5f3c434b {
+  border: #000 2px solid;
   grid-area: span 1 / span 1 / span 1 / span 1;
 }
 
