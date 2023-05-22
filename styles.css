@@ -2559,32 +2559,32 @@ html {
   }
   
   .work-image.cc-work-1 {
-    background-image: url("1.avif");
+    background-image: url("./images/1.avif");
     background-size: cover;
   }
   
   .work-image.cc-work-2 {
-    background-image: url("2.avif");
+    background-image: url("./images/2.avif");
     background-size: cover;
   }
 
   .work-image.cc-work-3 {
-    background-image: url("3.avif");
+    background-image: url("./images/3.avif");
     background-size: cover;
   }
 
   .work-image.cc-work-4 {
-    background-image: url("4freevector.jpg");
+    background-image: url("./images/4freevector.jpg");
     background-size: cover;
   }
   
  
   .work-image.cc-work-5 {
-    background-image: url("5.png");
+    background-image: url("./images/5.png");
     background-size: cover;
   }
   .work-image.cc-work-6 {
-    background-image: url("6.png");
+    background-image: url("./images/6.png");
     background-size: cover;
   }
   .project-name-link {
